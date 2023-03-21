@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate frontend developer intern. I have also done professions outside of my sector in order to communicate with people from different sectors and have perspective in those areas.
+A passionate learner. I have also done professions outside of my sector in order to communicate with people from different sectors and have perspective in those areas.
 For example, I have worked as a bartender and salesperson. In addition to that, I am an avid player of volleyball and love learning new things. 
 I believe that my communication skills and leadership skills will help me succeed because of my ability to communicate clearly, and my openness to learning new things.<br><br>🌱 I’m currently learning ReactJS<br>📫 How to reach me erdoganuysalbs@gmail.com
 
