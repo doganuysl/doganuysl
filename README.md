@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Missing Piece in Your Patching Cycle: Oracle Data Pump Bundle Patch](https://medium.com/@doganuysl/the-missing-piece-in-your-patching-cycle-oracle-data-pump-bundle-patch-19e0a6386a15?source=rss-75a4e8ed2ba3------2)
 - [How to Perform a Switchover in Oracle Data Guard Broker](https://medium.com/@doganuysl/how-to-perform-a-switchover-in-oracle-data-guard-broker-a0adeb490674?source=rss-75a4e8ed2ba3------2)
 - [Upgrade Oracle Database from Standard Edition to Enterprise Edition](https://medium.com/@doganuysl/upgrade-oracle-database-from-standard-edition-to-enterprise-edition-5ae32f5bfd70?source=rss-75a4e8ed2ba3------2)
 - [How to Safely Wipe an LVM Disk on Linux: A Step-by-Step Guide](https://medium.com/@doganuysl/how-to-safely-wipe-an-lvm-disk-on-linux-a-step-by-step-guide-8983fab40010?source=rss-75a4e8ed2ba3------2)
-- [Developing a YOLO Object Detection Model on Ultralytics Hub: A Step-by-Step Guide](https://medium.com/@doganuysl/developing-a-yolo-object-detection-model-on-ultralytics-hub-a-step-by-step-guide-49efc3ee1351?source=rss-75a4e8ed2ba3------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
